@@ -4,7 +4,6 @@ Welcome to Git!
 
 Let's start!
 
+Test 1
 
-Test
-
-Change the test
+Test 2
